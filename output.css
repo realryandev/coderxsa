@@ -250,6 +250,9 @@
     --tw-border-style: double;
     border-style: double;
   }
+  .border-\[\#0fffc3\] {
+    border-color: #0fffc3;
+  }
   .bg-gray-800 {
     background-color: var(--color-gray-800);
   }
