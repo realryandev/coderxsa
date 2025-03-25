@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+.glitch-text {
+    text-shadow: 0 0 5px #0fffc3, 0 0 10px #0fffc3, 0 0 15px #0fffc3;
+    animation: glitch 2s infinite alternate;
+  }
+  
+  @keyframes glitch {
+    0% {
+      text-shadow: 0 0 5px #0fffc3, 0 0 10px #0fffc3;
+      transform: translateX(0);
+    }
+    25% {
+      text-shadow: -1px -1px 0 #0fffc3, 1px 1px 0 #0ff;
+      transform: translateX(-1px);
+    }
+    50% {
+      text-shadow: 1px -1px 0 #0fffc3, -1px 1px 0 #0ff;
+      transform: translateX(1px);
+    }
+    100% {
+      text-shadow: 0 0 5px #0fffc3, 0 0 10px #0fffc3, 0 0 15px #0fffc3;
+      transform: translateX(0);
+    }
+  }
+  
+  
