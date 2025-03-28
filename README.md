@@ -4,7 +4,7 @@ Hey there, fellow internet dwellers! 👋 You've stumbled upon the Nebula Landin
 
 👀 Look at this Beauty! 👀
 
-  (![Screenshot 2025-03-28 234656](https://github.com/user-attachments/assets/fb1b287f-9d5f-4ec0-a9b9-588bee29a4d6
+  ![Screenshot 2025-03-28 234656](https://github.com/user-attachments/assets/fb1b287f-9d5f-4ec0-a9b9-588bee29a4d6
 )
 
 See those buttons? ✨ They're like portals to other dimensions! 🌌 Click 'em and see where you end up! 🚀 (Spoiler alert: it's probably just more internet.)
